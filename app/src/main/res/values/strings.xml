@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Saal Digital Test</string>
+    <string name="create_object">Create object</string>
+    <string name="edit_object">Edit object</string>
+    <string name="title_label">Title</string>
+    <string name="description_label">Description</string>
+    <string name="save">Save object</string>
+    <string name="type_label">Type</string>
+    <string name="related_objects">Relations</string>
+    <string name="objects_list_title">Objects</string>
+    <string name="object_operation_error">Error: %s</string>
+    <string name="delete">Delete</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="cancel">Cancel</string>
 </resources>

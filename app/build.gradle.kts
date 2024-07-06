@@ -75,6 +75,7 @@ dependencies {
 //    annotationProcessor(libs.room)
     implementation(libs.room)
     implementation(libs.room.runtime)
+    implementation(libs.androidx.navigation.compose)
     annotationProcessor(libs.room.compiler)
     ksp(libs.room.compiler)
 
